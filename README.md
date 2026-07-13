@@ -2,8 +2,7 @@
 
 Aplikasi web untuk manajemen peminjaman buku perpustakaan sekolah, dibangun dengan **PHP Native** dan **MySQL**. Mendukung dua peran pengguna (Admin & Siswa) untuk mendigitalisasi seluruh proses peminjaman buku.
 
-> **Status:** ✅ Siap untuk portfolio & production deployment
-
+>
 ---
 
 ## 📚 Daftar Isi
