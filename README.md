@@ -19,6 +19,17 @@ Aplikasi web untuk manajemen peminjaman buku perpustakaan sekolah, dibangun deng
 - Request peminjaman & pengembalian buku
 - Melihat riwayat & status peminjaman pribadi
 - Kelola profil dan ubah password
+  
+## 📸 Screenshot
+
+### Halaman Login
+![Login](screenshot/Screenshot%202026-07-14%20051412.png)
+
+### Dashboard Admin
+![Dashboard Admin](screenshot/Screenshot%202026-07-14%20050952.png)
+
+### Katalog Buku (Panel Siswa)
+![Katalog Buku](screenshot/Screenshot%202026-07-14%20051347.png)
 
 ## Tech Stack
 
